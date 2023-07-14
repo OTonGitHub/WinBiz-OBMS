@@ -9,3 +9,8 @@ invoice as well.
 
 - system functionality is extended with a 360 business management system, to
 view order and marketing statistics. As well as, managing users, HR and business email.
+
+## TECH STACK
+-----------
+- ReactJS
+- .NET 8
